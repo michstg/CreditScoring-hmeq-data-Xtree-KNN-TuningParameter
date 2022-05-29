@@ -7,4 +7,6 @@ algoritma KNN adalah algoritma klasifikasi yang bekerja mengambil sejumlah K dat
 
 Algoritma Xtree Decision Tree. sering didengar Pohon Sangat Acak atau Pohon Ekstra untuk jangka pendek, adalah algoritma pembelajaran mesin ensemble. Secara khusus, ini adalah ansambel pohon keputusan dan terkait dengan ansambel lain dari algoritma pohon keputusan seperti agregasi bootstrap (bagging) dan hutan acak.
 
-data = credit scoring
+data = credit scoring | kaggle
+
+evaluasi model dengan threshold 0,3 - ROC = 0.9211566131710016
