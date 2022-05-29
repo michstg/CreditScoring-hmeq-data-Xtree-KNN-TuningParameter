@@ -1,6 +1,7 @@
 # Classification-using-MachineLearning-Python-case-CreditScoring
 
 #Xtree better than KNN
+
 Algoritma  KNN  dan Extra  Tree  dipilih  secara  spesifik  dikarenakan  tidak  banyak  algoritma  yang  dapat  menganalisa  multilabel classification dengan baik,
 
 algoritma KNN adalah algoritma klasifikasi yang bekerja mengambil sejumlah K data terdekat (tetangga) sebagai pendekatan untuk menentukan kelas dari data baru. Algoritma ini mengklasifikasikan data berdasarkan similarity atau kemiripan ataupun juga kedekatannya terhadap data lainnya.
